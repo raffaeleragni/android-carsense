@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:orientation="vertical" android:stretchColumns="0"
+     android:layout_gravity="center_vertical|center_horizontal"
+     android:layout_height="wrap_content" android:layout_width="wrap_content">
+
+     <TableRow>
+          <TextView
+              android:textColor="#ffffff"
+              android:text="@string/session_name"
+              android:textSize="16px"
+              android:layout_marginLeft="6dip"
+              android:layout_gravity="center_vertical"
+          />
+     </TableRow>
+
+     <TableRow android:layout_width="fill_parent">
+          <EditText
+              android:id="@+id/dialog_rf_edit" android:maxWidth="250dip" android:width="250dip" android:minHeight="45dip"/>
+     </TableRow>
+
+     <TableRow>
+        <Button
+            android:id="@+id/dialog_rf_button"
+            android:text="Record"
+            android:layout_gravity="center_horizontal"/>
+     </TableRow>
+
+</TableLayout>

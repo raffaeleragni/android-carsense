@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:title="@string/menu_calibrate" android:id="@+id/menu_calibrate"/>
+	<item android:title="@string/menu_reset_calibration" android:id="@+id/menu_reset_calibrate"/>
+	<item android:title="@string/menu_start_recording" android:id="@+id/menu_start_record"/>
+	<item android:title="@string/menu_session_play" android:id="@+id/menu_session_playback"/>
+</menu>

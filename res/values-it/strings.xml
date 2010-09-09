@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Sense</string>
+    <string name="session_name">Nome sessione</string>
+    <string name="dialog_recordfilename_title">Registra</string>
+    <string name="menu_calibrate">Calibra il dispositivo</string>
+    <string name="menu_reset_calibration">Azzera calibramento</string>
+    <string name="menu_start_recording">Inizia/Ferma registrazione</string>
+    <string name="menu_session_play">Riproduci sessione</string>
+    <string name="menu_stop_play">Ferma la riproduzione</string>
+    <string name="menu_delete">Elimina</string>
+    <string name="select_file">Seleziona il file</string>
+    <string name="player">Riproduci</string>
+    <string name="program_info">
+Questo programma è specializzato nella misurazione dello stato di un auto e
+delle forze impiegate nella guida. Il suo scopo è di rilevare potenziali
+condizioni di stress per il veicolo e di analizzare lo stile di guida.
+\n \n
+Il suo sistema di rilevmento è molto sensibile, si consiglia quindi di
+utilizzarlo abbinato ad un car dock, possibilmente agganciato ad una superficie
+che possa subire tali variazioni di forze durante la guida. Ad esempio un vetro
+della carrozzeria utilizzando un cardock a ventosa.
+    </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Sense</string>
+    <string name="session_name">Session name</string>
+    <string name="dialog_recordfilename_title">Record</string>
+    <string name="menu_calibrate">Calibrate</string>
+    <string name="menu_reset_calibration">Reset Calibration</string>
+    <string name="menu_start_recording">Start/Stop recording</string>
+    <string name="menu_session_play">Session playback</string>
+    <string name="menu_stop_play">Stop playing</string>
+    <string name="menu_delete">Delete</string>
+    <string name="select_file">Select file</string>
+    <string name="player">Player</string>
+    <string name="program_info">
+This software is specialized in car status, sensors and misurations of the
+forces applied while driving. Its scope is to detect potential stress conditions
+for the vehicle and to analyze the driving style.
+\n \n
+The relevation system is quite sensible, and thus it’s suggested to use it with
+a car dock, possibly appliet to a surface which is the most sensible to the
+car’s movements, like one of the glasses.    
+    </string>
+</resources>
